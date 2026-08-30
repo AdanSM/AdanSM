@@ -27,7 +27,7 @@ los Caballeros, República Dominicana. Disponible para oportunidades junior.
 |---|---|---|
 | [F1 2025](https://github.com/AdanSM/f1) | Sitio de la temporada F1 2025 con auth (JWT) y backend Node/Express + MongoDB | HTML · CSS · JS · Node · Express · MongoDB |
 | [AS-Flow](https://github.com/AdanSM/AS-Flow) | Gestor de finanzas personales, full-stack | React · TypeScript · Node · PostgreSQL |
-| [Sturno](https://github.com/AdanSM/Sturno) | Página informativa del Sistema Solar — primer proyecto de práctica | HTML · CSS |
+| [Sturno](https://github.com/AdanSM/Sturno) | Página informativa sobre el planeta Saturno — primer proyecto de práctica | HTML · CSS |
 
 ### Estadísticas
 

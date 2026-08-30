@@ -1,15 +1,15 @@
-### ¡Hola! Soy Adán 👋
+### ¡Hola! Soy Adán
 
 Desarrollador de software junior enfocado en **frontend**, con especial interés en
 crear interfaces modernas, responsivas y fáciles de usar. Basado en Santiago de
 los Caballeros, República Dominicana. Disponible para oportunidades junior.
 
-- 🔭 Actualmente construyendo proyectos con **React**, **TypeScript** y **Tailwind CSS**.
-- 🌱 Aprendiendo Node.js y desarrollo backend como siguiente paso.
-- 🤝 Participé en un proyecto colaborativo de software (PTD-Inventario) trabajando
-  con React, TypeScript, MVP y backlog en equipo.
-- 💬 Pregúntame sobre HTML/CSS, JavaScript, React o buenas prácticas de Git.
-- 📫 Contacto: agregar correo / LinkedIn definitivos.
+- Actualmente construyendo proyectos con **React**, **TypeScript** y **Tailwind CSS**.
+- Aprendiendo Node.js y desarrollo backend como siguiente paso.
+- Participé en un proyecto colaborativo de software (PTD-Inventario) trabajando
+con React, TypeScript, MVP y backlog en equipo.
+- Pregúntame sobre HTML/CSS, JavaScript, React o buenas prácticas de Git.
+- Contacto: agregar correo / LinkedIn definitivos.
 
 ### Stack
 
